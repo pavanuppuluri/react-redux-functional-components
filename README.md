@@ -1,4 +1,4 @@
-# React State Management Using Redux
+# React State Management Using Redux (Functional components)
 
 This repo contains code to maintain react state using Redux.
 In this case, state contains counter.
